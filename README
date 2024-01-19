@@ -1,0 +1,8 @@
+This is a battery holder for building battery packs from 186650 cells
+Its using the super intersting full control G-code library by Andy Gleadall which can be found here
+https://github.com/FullControlXYZ/fullcontrol
+
+Inspired by this Thomas Sandler (Made with Layers) YouTube Video.
+https://www.youtube.com/watch?v=ZgytQDoaD5M
+
+I didnt see anywhere he had posted the code but he showed his process in the video using the old excel approach. I addapted his concept a bit as I think he used a large nozzle diameter than my stock 0.4mm.
